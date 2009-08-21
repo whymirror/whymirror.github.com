@@ -1,10 +1,15 @@
 ---
 layout: default
-title: USERNAME.github.com
+title: USERNAME.github.com/REPONAME
 ---
 
 <div id="home">
-  <h1>Blog Posts</h1>
+  <h1>REPONAME</h1>
+
+  <p>
+  
+  
+  <h1>News</h1>
   <ul class="posts">
     {% for post in site.posts %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
@@ -13,12 +18,8 @@ title: USERNAME.github.com
   
   <h1>Sticky</h1>
   <ul class="posts">
-    <li><span>30 Apr 2009</span> &raquo; <a href="http://link">link text</a></li>
+    <!-- <li><span>30 Apr 2009</span> &raquo; <a href="http://link">link text</a></li> -->
   </ul>
-  
-  <h1>Static</h1>
-  <ul class="posts">
-    <li><a href="http://link/">Text:</a> description</li>
-  </ul>
+ 
 </div>
   
