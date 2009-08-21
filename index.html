@@ -1,25 +1,167 @@
 ---
 layout: default
-title: USERNAME.github.com/REPONAME
+title: whymirror.github.com/home
 ---
 
 <div id="home">
-  <h1>REPONAME</h1>
+  <h1 id="pleasehelp">Decentralization of _why's Projects</h1>
 
-  <p>
+  <p>As you <a href="http://news.ycombinator.com/item?id=773106">may have heard</a>, coding superhero _why the lucky stiff recently deleted all his repos, took down his domains and completely removed his online presence.  Nobody knows the reason, and we hope he's doing well.</p>
+
+  <p>It's important, however, that his wonderful code live on, and we need your help to do so. We've <a href="http://github.com/whymirror">mirrored what repos we could find</a> and <a href="http://bit.ly/whybug">contacted github tech support</a>, who have promised assistance.  Whymirror will do what it can to ease the transition but <em>CANNOT</em> be a long-term solution.  We need the community (this means YOU) to:</p>
+
+  <ul>
+    <li><p><b>Find one or more people to become maintainers of each project</b></p></li>
+
+    <li><p>Once maintainer(s) have been found, <b>github will 'bless' one as the official repository</b> -- the rest of the network will read "fork of blessedrepo/projectname". (If there are multiple maintainers, the project can set up "camping" as a user -- see rails/rails or starling/starling -- with each maintainer having push rights on the shared repo)</p></li>
+    <li><p><b>The surviving wikis for each project must be moved into github pages</b> within that project. (This is the solution suggested by github's @tekkub)  Just:</p>
+
+    <ul>
+      <li>go to <a href="http://wiki.github.com/why/camping">http://wiki.github.com/why/camping</a> to find the old, now-uneditable code;</li>
+      <li>Pull from whymirror's branch (<code>git remote add -f -m master whymirror git://github.com/whymirror/PROJECTNAME.git</code>) and checkout the pages branch (<code>git checkout -b gh-pages whymirror/gh-pages</code>)
+      </li>
+      <li>Migrate the content over as best as you can.</li>
+      <li>Submit a pull request to whymirror <em>and</em> to this project's maintainers.</li>
+    </ul>
+    </li>
+    <li><p><b>Documentation formerly housed on code.whytheluckystiff.net/doc should also be moved to github pages</b>. Our best bet here is <a href="http://web.archive.org/web/*/http://code.whytheluckystiff.net/">probably archive.org</a>.</p></li>
+
+    <li><p><b>Recover several missing repos</b> -- see the list of repos, below.</p>
+
+    <li><p>Finally, if you'd <b>like to help copilot whymirror</b> please get in touch. </p></li>
+  </ul>
+
+
+  <p>Thank you, thank you for whatever contribution you can provide. And to _why: so long and thanks for all the fish^h^h^h^h chunky bacon.</p>
+
+  <p>-- Flip Kromer (@mrflip) and Seth Thomas Rasmussen (@greatseth) for the <a href="http://github.com/whymirror">http://github.com/whymirror</a> project</p>
+
+
+  <h1 id="projects">State of the Projects</h1>
+
+  <h2>Active projects:</h2>
+  <ul>
+    <li><strong><a href="http://github.com/whymirror/camping">camping</a></strong>:
+    Hero of the realm <a href="http://github.com/judofyr">judofyr</a> maintains this project.</li> 
+
+    <li><strong><a href="http://github.com/whymirror/mixico">mixico</a></strong>:
+    Hero of the realm <a href="http://github.com/rkh">rkh</a> maintains this project.</li> 
+
+    <li><strong><a href="http://github.com/whymirror/syck">syck</a></strong>:
+    Hero of the realm <a href="http://github.com/indeyets">indeyets</a> maintains this project.</li> 
+
+    <li><strong><a href="http://github.com/whymirror/markaby">markaby</a></strong>:
+    Hero of the realm <a href="http://github.com/joho">joho</a> maintains this project.</li> 
+  </ul>
+
+  <h2>Maintainer Needed:</h2>
+  <ul>
   
-  
-  <h1>News</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
+    <li><strong><a href="http://github.com/whymirror/8cpj">8cpj</a></strong>
+    Maintainer needed.</li>      
+
+    <li><strong><a href="http://github.com/whymirror/blimlimb">blimlimb</a></strong>:
+    Maintainer needed.</li> 
+
+    <li><strong><a href="http://github.com/whymirror/bloopsaphone">bloopsaphone</a></strong>:
+    Maintainer needed.</li> 
+
+    <li><strong><a href="http://github.com/whymirror/fakeplus">fakeplus</a></strong>:
+    Maintainer needed.</li> 
+
+    <li><strong><a href="http://github.com/whymirror/hacketyhack">hacketyhack</a></strong>:
+    Maintainer needed.</li> 
+
+    <li><strong><a href="http://github.com/whymirror/hobix">hobix</a></strong>:
+    Maintainer needed.</li> 
+
+    <li><strong><a href="http://github.com/whymirror/hoodwinkd">hoodwinkd</a></strong>:
+    Maintainer needed.</li> 
+
+    <li><strong><a href="http://github.com/whymirror/hpricot">hpricot</a></strong>:
+    Maintainer needed.</li> 
+
+    <li><strong><a href="http://github.com/whymirror/junebug">junebug</a></strong>:
+    Maintainer needed.</li> 
+
+    <li><strong><a href="http://github.com/whymirror/mousehole">mousehole</a></strong>:
+    Maintainer needed.</li> 
+
+    <li><strong><a href="http://github.com/whymirror/parkplace">parkplace</a></strong>:
+    Maintainer needed.</li> 
+
+    <li><strong>Why's Poignant Guide to Ruby</strong>:
+
+    There are several repos, at
+      <a href="http://github.com/whymirror/poignant-guide">poignant-guide</a>,
+      <a href="http://github.com/whymirror/poignantguide">poignantguide</a>,
+      <a href="http://github.com/whymirror/why-archive">why-archive</a> (broad archive) and
+      <a href="http://github.com/whymirror/poignant-br">poignant-br</a> (brazilian translation).
+      Please help reconcile them and identify the newest version, which is probably
+      <a href="http://github.com/mislav/poignant-guide">mislav's poignant-guide</a>.
+    </li>
+
+    <li><strong><a href="http://github.com/whymirror/potion">potion</a></strong>:
+    Maintainer needed.</li> 
+
+    <li><strong><a href="http://github.com/whymirror/redcloth">redcloth</a></strong>:
+    Maintainer needed.</li> 
+
+    <li><strong><a href="http://github.com/whymirror/sandbox">sandbox</a></strong>:
+    Maintainer needed.</li> 
+
+    <li><strong><a href="http://github.com/whymirror/sheila">sheila</a></strong>:
+    Maintainer needed.</li> 
+
+    <li><strong><a href="http://github.com/whymirror/shoes">shoes</a></strong>:
+    Maintainer needed.</li> 
+
+    <li><strong><a href="http://github.com/whymirror/unholy">unholy</a></strong>:
+    Maintainer needed.</li> 
+
+    <li><strong><a href="http://github.com/whymirror/yown">yown</a></strong>:
+    Maintainer needed.</li>
   </ul>
   
-  <h1>Sticky</h1>
-  <ul class="posts">
+    <h2 id="missingprojects">Missing github repos:</h2>
+
+    <ul>
+      <li>greg</li>
+      <li>rb_parse_args</li>
+      <li>skistrap</li>
+      <li>processor</li>
+      <li>chirrup</li>
+    </ul><br />
+    @tekkub is trying to revivify them but if you have a fork please add it to a github repo and message whymirror to pull.
+    </li>
+    
+    <h2>Missing <a href="http://rubyforge.org/users/why/">rubyforge repos</a></h2>
+    <p>The code for these repos seems to have lived only on code.whytheluckystiff.net:</p>
+
+    <ul>
+      <li><a href="http://rubyforge.org/projects/dns-zone/">http://rubyforge.org/projects/dns-zone/</a></li>
+      <li><a href="http://rubyforge.org/projects/mouseHole">http://rubyforge.org/projects/mouseHole</a> </li>
+      <li><a href="http://rubyforge.org/projects/metaid">http://rubyforge.org/projects/metaid</a> </li>
+      <li><a href="http://rubyforge.org/projects/rubytorrent">http://rubyforge.org/projects/rubytorrent</a> </li>
+      <li><a href="http://rubyforge.org/projects/equipment">http://rubyforge.org/projects/equipment</a>
+      </li>
+    </ul><br />
+    If you have SVN pulls (of any vintage) for those projects, please create a github repo and message whymirror, who will fork your version.
+    </li>
+  
+  
+  
+<!--   <h1>News</h1> -->
+<!--   <ul class="posts"> -->
+<!--     {% for post in site.posts %} -->
+<!--       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ --> <!-- post.url }}">{{ post.title }}</a></li> -->
+<!--     {% endfor %} -->
+<!--   </ul> -->
+  
+<!--   <h1>Sticky</h1> -->
+<!--   <ul class="posts"> -->
     <!-- <li><span>30 Apr 2009</span> &raquo; <a href="http://link">link text</a></li> -->
-  </ul>
+  <!-- </ul> -->
  
 </div>
   
