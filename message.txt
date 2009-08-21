@@ -1,15 +1,31 @@
-You're awesome. You're both also the new bloopsaphone maintainers; see http://whymirror.github.com/ for more.
+I've got you down as the maintainer of mousehole. You are awesome! Would you please take a peek at http://whymirror.github.com/ for the state of the whymirror and the note about mousehole?
 
-I've added you as admins on whymirror's copy, but I'm going to ask github tech support to make one of yours the "root" node -- please let me know which one. At some point you'll do a pull request to the whole tree, and then I'll make whymirror's repo a fork of yours with no content, just a readme pointing back to the source.
+Github tech support will make your repo the "root" node. At some point we may make whymirror's repo a fork with no content, just a readme pointing back to the head.  Let us know if you require changes to either http://whymirror.github.com/ or the whymirror fork.
 
-I made a skeleton gh-pages (the best place to migrate the documentation) for
-each repo, including CSS and a template index.html. So if you'd like, do a quick
-pull from whymirror's copy. (You'll have to use some fancypants git command to
-add the gh-pages branch: see the documentation at http://pages.github.com)
+Also, I made a skeleton gh-pages (the best place to migrate the documentation) for each repo, including CSS and a template index.html. So if you'd like, do a quick pull from whymirror's copy. (You'll have to use some fancypants git command to add the gh-pages branch: see the documentation at http://pages.github.com)
 
-Once you've worked out the details let us know if you require changes to either http://whymirror.github.com/ or the whymirror fork.
 
-Thank you so much for volunteering. The response from the community has been extraordinary -- it's a remarkable testament to _why and to the ruby community.
+Thank you so much for your work. The response from the community has been extraordinary -- it's a remarkable testament to _why and to the ruby community.
+
+mrflip
+
+
+We need github tech support to make one repo the "root" node. At some point we may make whymirror's repo a fork with no content, just a readme pointing back to the head.  Let us know if you require changes to either http://whymirror.github.com/ or the whymirror fork.
+
+
+ 
+---------------------------------------------------------------------------
+
+Great! I've got you down as the maintainer of hobix.  <a href="http://github.com/crnixon">crnixon</a> has volunteered to help as well: "I can get the online installer and site back up and running this week ... [and] continue to improve it in the spirit of _why." Would you mind getting in touch with crnixon directly?
+
+See http://whymirror.github.com/ for notes on hobix and on state of the whymirror.
+
+We need github tech support to make one repo the "root" node. At some point we may make whymirror's repo a fork with no content, just a readme pointing back to the head.  Let us know if you require changes to either http://whymirror.github.com/ or the whymirror fork.
+
+Also, I made a skeleton gh-pages (the best place to migrate the documentation) for each repo, including CSS and a template index.html. So if you'd like, do a quick pull from whymirror's copy. (You'll have to use some fancypants git command to add the gh-pages branch: see the documentation at http://pages.github.com)
+
+Thank you so much for your work. The response from the community has been extraordinary -- it's a remarkable testament to _why and to the ruby community.
+
 
 ---------------------------------------------------------------------------
 
@@ -22,3 +38,4 @@ Users JGailor, faithfulgeek and jbarnette have volunteered to help, I'm hoping y
 If you can, get in touch directly with jgarber, JGailor, faithfulgeek and jbarnette (ie. please don't cc whymirror -- but please do ask for any help you need).
 
 Thank you so much for volunteering. The response from the community has been extraordinary -- it's a remarkable testament to _why and to the ruby community.
+
