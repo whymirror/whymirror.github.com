@@ -29,3 +29,6 @@ pkg
 .settings
 .tasks-cache
 *.tmproj
+
+_drafts/
+_site/

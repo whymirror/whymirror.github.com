@@ -4,14 +4,14 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>REPONAME</title>
+ <title>USERNAME.github.com/REPONAME</title>
  <link href="http://USERNAME.github.com/REPONAME/atom.xml" rel="self"/>
  <link href="http://USERNAME.github.com/REPONAME/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://USERNAME.github.com/</id>
  <author>
    <name>USERNAME.github.com</name>
-   <email>USERNAME@nonesuch.com</email>
+   <email>EMAIL</email>
  </author>
 
  {% for post in site.posts %}
