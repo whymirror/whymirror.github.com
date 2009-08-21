@@ -1,3 +1,48 @@
+After hearing about _why's departure, in a foolish gust of barnraising I set up a central mirror of _why's projects on github (http://github.com/whymirror).  Then I realized I could never handle the eternity of emails from that account alone... so I spammed each ex-_why repo I could find with a pull request asking for a new maintainer and help recovering missing projects.
+
+Check out http://whymirror.github.com for the results.
+
+Within 48 hours, dozens of people have stepped forward with contributions. Volunteers have come forward to take over management of the projects, and currently 15 out of 23 projects have custodians. We believe all the major code projects have been recovered, now hosted on github (check whymirror for a list).  Github management are helping to untangle the projects' networks to be rooted by the new maintainers. Seth Rasmussen (@greatseth) has stepped up to help manage whymirror.
+
+This is an amazing testament to the ruby community. If _why's disappearing act is a test, I think we'll pass.
+
+There's more to go, however, until his works are fully decentralized.  Here's how you can help:
+
+== Several projects still need maintainers: ==
+
+* Most importantly, [hpricot] needs a maintainer, though @ecarnevale has volunteered to help that person. (hpricot may already have a maintainer, and I apologize if that's the case).
+
+* A couple people have reluctantly stepped forward to run the [shoes] project, but they could use help.
+
+* hacketyhack exists in a couple different states and needs a custodian. See http://whymirror.github.com
+
+* 8cpj, fakeplus, hoodwinkd, sandbox and yown all need custodians.  These should be low-traffic given their age and size.
+
+* If any of the projects (listed as with or without custodians) already have a defacto custodian, please let us know -- there are no coups, only volunteers stepping forward to pitch in.
+
+== Recover missing code ==
+
+The major projects have been found, but there's still some stuff missing
+
+* The "Try Ruby" code is missing.  This would be a grave loss if we can't find it.  Also will need a custodian of course.
+
+* If you have SVN pulls from code.whytheluckystiff.net, please check the date against the repos on github.com -- yours may be more recent.
+
+* There's one repo from rubyforge -- http://rubyforge.org/projects/dns-zone -- that may have been a why project.  Anyone own this? If you have code, please set up a github repo and message whymirror.
+
+== Documentation recovery ==
+
+There was a wealth of documentation on whytheluckystiff.net, hobix.com, etc. Some of that can be recovered from archive.org and the google cache, but we should act fast. Contact the custodian of the corresponding project if you'll help migrate content.
+
+The best solution is to land that documentation into the repo's github pages branch -- that makes it live within the repo and doesn't require transmutation out of HTML. I made a skeleton gh-pages for each repo in whymirror's branch, including CSS and a template index.html borrowed from @mojombo. (You'll have to use some fancypants git command to add the gh-pages branch: see the documentation at http://pages.github.com)
+
+Thanks for your help,
+
+flip (flip@infochimps.org, http://github.com/mrflip) and Seth Rasmussen (@greatseth, http://github.com/greatseth) for http://github.com/whymirror
+
+
+---------------------------------------------------------------------------
+
 Re-rooting trees for _why's projects as maintainers step forward
 
 Hi! 
