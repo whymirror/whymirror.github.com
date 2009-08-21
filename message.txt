@@ -13,19 +13,12 @@ Thank you so much for volunteering. The response from the community has been ext
 
 ---------------------------------------------------------------------------
 
-For some time, <a href="http://github.com/jasongarber">jasongarber</a> has been head of the <a href="http://redcloth.org/">Redcloth</a> team, apologies that I missed this.
+Thanks for your note on redcloth!
 
-Users JGailor, faithfulgeek and jbarnette have volunteered to help, I'm hoping they can work together to integrate the documentation
+For some time, <a href="http://github.com/jgarber">jgarber</a> has been head of the <a href="http://redcloth.org/">Redcloth</a> team, apologies that I missed this.
 
-Faithfulgeek says "I wanted to let you know I've grabbed _why's Textile reference that was up on hobix.com and uploaded it to my server. It can be accessed at http://faithfulgeek.org/textile.html. The dead version is at top of the google results for textile, so I figure it was probably getting some use. Can you let people know on the mirror of the new location?"
+Users JGailor, faithfulgeek and jbarnette have volunteered to help, I'm hoping you can work together to integrate the documentation. Faithfulgeek says "I wanted to let you know I've grabbed _why's Textile reference that was up on hobix.com and uploaded it to my server. It can be accessed at http://faithfulgeek.org/textile.html. The dead version is at top of the google results for textile, so I figure it was probably getting some use. Can you let people know on the mirror of the new location?"
 
-I've added you as admins on whymirror's copy, but I'm going to ask github tech support to make one of yours the "root" node -- please let me know which one. At some point you'll do a pull request to the whole tree, and then I'll make whymirror's repo a fork of yours with no content, just a readme pointing back to the source.
-
-I made a skeleton gh-pages (the best place to migrate the documentation) for
-each repo, including CSS and a template index.html. So if you'd like, do a quick
-pull from whymirror's copy. (You'll have to use some fancypants git command to
-add the gh-pages branch: see the documentation at http://pages.github.com)
-
-Once you've worked out the details let us know if you require changes to either http://whymirror.github.com/ or the whymirror fork.
+If you can, get in touch directly with jgarber, JGailor, faithfulgeek and jbarnette (ie. please don't cc whymirror -- but please do ask for any help you need).
 
 Thank you so much for volunteering. The response from the community has been extraordinary -- it's a remarkable testament to _why and to the ruby community.
