@@ -1,3 +1,28 @@
+Re-rooting trees for _why's projects as maintainers step forward
+
+Hi! 
+
+In #1191, @tekkub said you all can manually repair the fractionated / rootless trees left behind by _why's departure.
+
+Here are projects started by why where a lead custodian has stepped forward:
+
+* http://github.com/bterlson/blimlimb
+* http://github.com/camping/camping
+* http://github.com/rkh/mixico
+* http://github.com/evaryont/mousehole
+* http://github.com/fogus/potion
+* http://github.com/jgarber/redcloth
+* http://github.com/indeyets/syck
+* http://github.com/devyn/unholy
+
+The running count is up at http://whymirror.github.com/
+
+If you like, leave this issue open and I will append more names as they roll in; or I can wait and batch them up as separate issues.
+
+
+---------------------------------------------------------------------------
+
+
 I've got you down as the maintainer of mousehole. You are awesome! Would you please take a peek at http://whymirror.github.com/ for the state of the whymirror and the note about mousehole?
 
 Github tech support will make your repo the "root" node. At some point we may make whymirror's repo a fork with no content, just a readme pointing back to the head.  Let us know if you require changes to either http://whymirror.github.com/ or the whymirror fork.
