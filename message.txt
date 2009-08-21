@@ -53,6 +53,7 @@ Here are projects started by why where a lead custodian has stepped forward:
 
 * http://github.com/bterlson/blimlimb
 * http://github.com/camping/camping
+* http://github.com/steveklabnik/hacketyhack
 * http://github.com/rkh/mixico
 * http://github.com/evaryont/mousehole
 * http://github.com/fogus/potion
