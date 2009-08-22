@@ -49,11 +49,12 @@ Hi!
 
 In #1191, @tekkub said you all can manually repair the fractionated / rootless trees left behind by _why's departure.
 
-Here are projects started by why where a lead custodian has stepped forward:
+Here are projects started by why where a single lead custodian has stepped forward:
 
 * http://github.com/bterlson/blimlimb
 * http://github.com/camping/camping
 * http://github.com/steveklabnik/hacketyhack
+* http://github.com/hobix/mental
 * http://github.com/rkh/mixico
 * http://github.com/evaryont/mousehole
 * http://github.com/fogus/potion
@@ -61,9 +62,11 @@ Here are projects started by why where a lead custodian has stepped forward:
 * http://github.com/indeyets/syck
 * http://github.com/devyn/unholy
 
-The running count is up at http://whymirror.github.com/
+The running count is up at http://whymirror.github.com/ - there are several others with multiple maintainers, they will nominate a single root node or create a virtual one (a la camping/camping). If you like, leave this issue open and I will append more names as they roll in; or I can wait and batch them up as separate issues.
 
-If you like, leave this issue open and I will append more names as they roll in; or I can wait and batch them up as separate issues.
+Would you please also migrate the existing issues over to these root nodes? If that's impossible let us know.
+
+flip
 
 
 ---------------------------------------------------------------------------
