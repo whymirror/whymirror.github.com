@@ -1,0 +1,156 @@
+ 8cpj			                drnic       
+ blimlimb		bterlson
+ bloopsaphone		aberant         mental
+ camping		camping         judofyr
+ fakeplus		                sspencer       
+ greg			localhost
+ hacketyhack		steveklabnik
+ hobix			mental          crnixon
+ hoodwinkd		                robbyrussell
+ hpricot		ecarnevale      olabini
+ markaby		joho            spox            smtlaissezfaire
+ metaid			dannytatom      evaryont        chneukirchen
+ mixico			rkh
+ mousehole		evaryont        joshprice
+ parkplace		technoweenie    mattjamieson    jeremymcanally
+ poignant-br		                carlosbrando
+ poignant-guide		mislav
+ poignantguide		                luigi
+ potion			fogus           lutzky
+ redcloth		jgarber
+ sandbox		                jschoolcraft
+ sheila			wmorgan
+ shoes			mental          greatseth
+ syck			indeyets
+ unholy			devyn           jmkogut
+ why-archive		steveklabnik    binary42
+ yown                                   iamjwc
+ bumpspark                              yup
+ myfs                                   yup
+ railsfs                                yup
+ superredcloth                          yup
+ wordy                                  yup
+
+repo=8cpj           ; user=drnic           ; 
+repo=blimlimb       ; user=bterlson        ; 
+repo=bloopsaphone   ; user=mental          ; 
+repo=camping        ; user=camping         ; 
+repo=camping        ; user=judofyr         ; 
+repo=fakeplus       ; user=sspencer        ; 
+repo=greg           ; user=localhost       ; 
+repo=hacketyhack    ; user=steveklabnik    ; 
+repo=hobix          ; user=crnixon         ; 
+repo=hoodwinkd      ; user=robbyrussell    ; 
+repo=hpricot        ; user=ecarnevale      ; 
+repo=hpricot        ; user=olabini         ; 
+repo=markaby        ; user=joho            ; 
+repo=markaby        ; user=spox            ; 
+repo=metaid         ; user=chneukirchen    ; 
+repo=metaid         ; user=dannytatom      ; 
+repo=mixico         ; user=rkh             ; 
+repo=mousehole      ; user=evaryont        ; 
+repo=mousehole      ; user=joshprice       ; 
+repo=parkplace      ; user=jeremymcanally  ; 
+repo=parkplace      ; user=mattjamieson    ; 
+repo=parkplace      ; user=technoweenie    ; 
+repo=poignant-br    ; user=carlosbrando    ; 
+repo=poignant-guide ; user=mislav          ; 
+repo=poignantguide  ; user=luigi           ; 
+repo=potion         ; user=fogus           ; 
+repo=potion         ; user=lutzky          ; 
+repo=redcloth       ; user=jgarber         ; 
+repo=sandbox        ; user=jschoolcraft    ; 
+repo=sheila         ; user=wmorgan         ; 
+repo=shoes          ; user=greatseth       ; 
+repo=syck           ; user=indeyets        ; 
+repo=unholy         ; user=devyn           ; 
+repo=unholy         ; user=jmkogut         ; 
+repo=why-archive    ; user=binary42        ; 
+repo=yown           ; user=iamjwc          ; 
+# repo=bloopsaphone   ; user=aberant         ; 
+# repo=hobix          ; user=mental          ; 
+# repo=markaby        ; user=smtlaissezfaire ; 
+# repo=metaid         ; user=evaryont        ; 
+# repo=shoes          ; user=mental          ;
+
+
+# repo=8cpj           ; user=drnic           ; cd ~/ics/projects/whymirror/${repo} && git-rbranch git://github.com/${user}/${repo}.git && git co master && git pull $user master && git status && git branch
+# repo=blimlimb       ; user=bterlson        ; cd ~/ics/projects/whymirror/${repo} && git-rbranch git://github.com/${user}/${repo}.git && git co master && git pull $user master && git status && git branch
+# repo=bloopsaphone   ; user=mental          ; cd ~/ics/projects/whymirror/${repo} && git-rbranch git://github.com/${user}/${repo}.git && git co master && git pull $user master && git status && git branch
+# repo=camping        ; user=camping         ; cd ~/ics/projects/whymirror/${repo} && git-rbranch git://github.com/${user}/${repo}.git && git co master && git pull $user master && git status && git branch
+# repo=camping        ; user=judofyr         ; cd ~/ics/projects/whymirror/${repo} && git-rbranch git://github.com/${user}/${repo}.git && git co master && git pull $user master && git status && git branch
+# repo=fakeplus       ; user=sspencer        ; cd ~/ics/projects/whymirror/${repo} && git-rbranch git://github.com/${user}/${repo}.git && git co master && git pull $user master && git status && git branch
+# repo=greg           ; user=localhost       ; cd ~/ics/projects/whymirror/${repo} && git-rbranch git://github.com/${user}/${repo}.git && git co master && git pull $user master && git status && git branch
+# repo=hacketyhack    ; user=steveklabnik    ; cd ~/ics/projects/whymirror/${repo} && git-rbranch git://github.com/${user}/${repo}.git && git co master && git pull $user master && git status && git branch
+# repo=hobix          ; user=crnixon         ; cd ~/ics/projects/whymirror/${repo} && git-rbranch git://github.com/${user}/${repo}.git && git co master && git pull $user master && git status && git branch
+# repo=hoodwinkd      ; user=robbyrussell    ; cd ~/ics/projects/whymirror/${repo} && git-rbranch git://github.com/${user}/${repo}.git && git co master && git pull $user master && git status && git branch
+# repo=hpricot        ; user=ecarnevale      ; cd ~/ics/projects/whymirror/${repo} && git-rbranch git://github.com/${user}/${repo}.git && git co master && git pull $user master && git status && git branch
+# repo=hpricot        ; user=olabini         ; cd ~/ics/projects/whymirror/${repo} && git-rbranch git://github.com/${user}/${repo}.git && git co master && git pull $user master && git status && git branch
+# repo=markaby        ; user=joho            ; cd ~/ics/projects/whymirror/${repo} && git-rbranch git://github.com/${user}/${repo}.git && git co master && git pull $user master && git status && git branch
+# repo=markaby        ; user=spox            ; cd ~/ics/projects/whymirror/${repo} && git-rbranch git://github.com/${user}/${repo}.git && git co master && git pull $user master && git status && git branch
+# repo=metaid         ; user=chneukirchen    ; cd ~/ics/projects/whymirror/${repo} && git-rbranch git://github.com/${user}/${repo}.git && git co master && git pull $user master && git status && git branch
+# repo=metaid         ; user=dannytatom      ; cd ~/ics/projects/whymirror/${repo} && git-rbranch git://github.com/${user}/${repo}.git && git co master && git pull $user master && git status && git branch
+# repo=mixico         ; user=rkh             ; cd ~/ics/projects/whymirror/${repo} && git-rbranch git://github.com/${user}/${repo}.git && git co master && git pull $user master && git status && git branch
+# repo=mousehole      ; user=evaryont        ; cd ~/ics/projects/whymirror/${repo} && git-rbranch git://github.com/${user}/${repo}.git && git co master && git pull $user master && git status && git branch
+# repo=mousehole      ; user=joshprice       ; cd ~/ics/projects/whymirror/${repo} && git-rbranch git://github.com/${user}/${repo}.git && git co master && git pull $user master && git status && git branch
+# repo=parkplace      ; user=jeremymcanally  ; cd ~/ics/projects/whymirror/${repo} && git-rbranch git://github.com/${user}/${repo}.git && git co master && git pull $user master && git status && git branch
+# repo=parkplace      ; user=mattjamieson    ; cd ~/ics/projects/whymirror/${repo} && git-rbranch git://github.com/${user}/${repo}.git && git co master && git pull $user master && git status && git branch
+# repo=parkplace      ; user=technoweenie    ; cd ~/ics/projects/whymirror/${repo} && git-rbranch git://github.com/${user}/${repo}.git && git co master && git pull $user master && git status && git branch
+# repo=poignant-br    ; user=carlosbrando    ; cd ~/ics/projects/whymirror/${repo} && git-rbranch git://github.com/${user}/${repo}.git && git co master && git pull $user master && git status && git branch
+# repo=poignant-guide ; user=mislav          ; cd ~/ics/projects/whymirror/${repo} && git-rbranch git://github.com/${user}/${repo}.git && git co master && git pull $user master && git status && git branch
+# repo=poignantguide  ; user=luigi           ; cd ~/ics/projects/whymirror/${repo} && git-rbranch git://github.com/${user}/${repo}.git && git co master && git pull $user master && git status && git branch
+# repo=potion         ; user=fogus           ; cd ~/ics/projects/whymirror/${repo} && git-rbranch git://github.com/${user}/${repo}.git && git co master && git pull $user master && git status && git branch
+# repo=potion         ; user=lutzky          ; cd ~/ics/projects/whymirror/${repo} && git-rbranch git://github.com/${user}/${repo}.git && git co master && git pull $user master && git status && git branch
+# repo=redcloth       ; user=jgarber         ; cd ~/ics/projects/whymirror/${repo} && git-rbranch git://github.com/${user}/${repo}.git && git co master && git pull $user master && git status && git branch
+# repo=sandbox        ; user=jschoolcraft    ; cd ~/ics/projects/whymirror/${repo} && git-rbranch git://github.com/${user}/${repo}.git && git co master && git pull $user master && git status && git branch
+# repo=sheila         ; user=wmorgan         ; cd ~/ics/projects/whymirror/${repo} && git-rbranch git://github.com/${user}/${repo}.git && git co master && git pull $user master && git status && git branch
+# repo=shoes          ; user=greatseth       ; cd ~/ics/projects/whymirror/${repo} && git-rbranch git://github.com/${user}/${repo}.git && git co master && git pull $user master && git status && git branch
+# repo=syck           ; user=indeyets        ; cd ~/ics/projects/whymirror/${repo} && git-rbranch git://github.com/${user}/${repo}.git && git co master && git pull $user master && git status && git branch
+# repo=unholy         ; user=devyn           ; cd ~/ics/projects/whymirror/${repo} && git-rbranch git://github.com/${user}/${repo}.git && git co master && git pull $user master && git status && git branch
+# repo=unholy         ; user=jmkogut         ; cd ~/ics/projects/whymirror/${repo} && git-rbranch git://github.com/${user}/${repo}.git && git co master && git pull $user master && git status && git branch
+# repo=why-archive    ; user=binary42        ; cd ~/ics/projects/whymirror/${repo} && git-rbranch git://github.com/${user}/${repo}.git && git co master && git pull $user master && git status && git branch
+# repo=yown           ; user=iamjwc          ; cd ~/ics/projects/whymirror/${repo} && git-rbranch git://github.com/${user}/${repo}.git && git co master && git pull $user master && git status && git branch
+
+# repo=bloopsaphone   ; user=aberant         ; cd ~/ics/projects/whymirror/${repo} && git-rbranch git://github.com/${user}/${repo}.git && git co master && git pull $user master && git status && git branch
+# repo=hobix          ; user=mental          ; cd ~/ics/projects/whymirror/${repo} && git-rbranch git://github.com/${user}/${repo}.git && git co master && git pull $user master && git status && git branch
+# repo=markaby        ; user=smtlaissezfaire ; cd ~/ics/projects/whymirror/${repo} && git-rbranch git://github.com/${user}/${repo}.git && git co master && git pull $user master && git status && git branch
+# repo=metaid         ; user=evaryont        ; cd ~/ics/projects/whymirror/${repo} && git-rbranch git://github.com/${user}/${repo}.git && git co master && git pull $user master && git status && git branch
+# repo=shoes          ; user=mental          ; cd ~/ics/projects/whymirror/${repo} && git-rbranch git://github.com/${user}/${repo}.git && git co master && git pull $user master && git status && git branch
+
+# repo=8cpj           ; user=drnic           ; echo $user/$repo ; cd ~/ics/projects/whymirror/${repo} && git fetch $user 
+# repo=blimlimb       ; user=bterlson        ; echo $user/$repo ; cd ~/ics/projects/whymirror/${repo} && git fetch $user 
+# repo=bloopsaphone   ; user=mental          ; echo $user/$repo ; cd ~/ics/projects/whymirror/${repo} && git fetch $user 
+# repo=camping        ; user=camping         ; echo $user/$repo ; cd ~/ics/projects/whymirror/${repo} && git fetch $user 
+# repo=camping        ; user=judofyr         ; echo $user/$repo ; cd ~/ics/projects/whymirror/${repo} && git fetch $user 
+# repo=fakeplus       ; user=sspencer        ; echo $user/$repo ; cd ~/ics/projects/whymirror/${repo} && git fetch $user 
+# repo=greg           ; user=localhost       ; echo $user/$repo ; cd ~/ics/projects/whymirror/${repo} && git fetch $user 
+# repo=hacketyhack    ; user=steveklabnik    ; echo $user/$repo ; cd ~/ics/projects/whymirror/${repo} && git fetch $user 
+# repo=hobix          ; user=crnixon         ; echo $user/$repo ; cd ~/ics/projects/whymirror/${repo} && git fetch $user 
+# repo=hoodwinkd      ; user=robbyrussell    ; echo $user/$repo ; cd ~/ics/projects/whymirror/${repo} && git fetch $user 
+# repo=hpricot        ; user=ecarnevale      ; echo $user/$repo ; cd ~/ics/projects/whymirror/${repo} && git fetch $user 
+# repo=hpricot        ; user=olabini         ; echo $user/$repo ; cd ~/ics/projects/whymirror/${repo} && git fetch $user 
+# repo=markaby        ; user=joho            ; echo $user/$repo ; cd ~/ics/projects/whymirror/${repo} && git fetch $user 
+# repo=markaby        ; user=spox            ; echo $user/$repo ; cd ~/ics/projects/whymirror/${repo} && git fetch $user 
+# repo=metaid         ; user=chneukirchen    ; echo $user/$repo ; cd ~/ics/projects/whymirror/${repo} && git fetch $user 
+# repo=metaid         ; user=dannytatom      ; echo $user/$repo ; cd ~/ics/projects/whymirror/${repo} && git fetch $user 
+# repo=mixico         ; user=rkh             ; echo $user/$repo ; cd ~/ics/projects/whymirror/${repo} && git fetch $user 
+# repo=mousehole      ; user=evaryont        ; echo $user/$repo ; cd ~/ics/projects/whymirror/${repo} && git fetch $user 
+# repo=mousehole      ; user=joshprice       ; echo $user/$repo ; cd ~/ics/projects/whymirror/${repo} && git fetch $user 
+# repo=parkplace      ; user=jeremymcanally  ; echo $user/$repo ; cd ~/ics/projects/whymirror/${repo} && git fetch $user 
+# repo=parkplace      ; user=mattjamieson    ; echo $user/$repo ; cd ~/ics/projects/whymirror/${repo} && git fetch $user 
+# repo=parkplace      ; user=technoweenie    ; echo $user/$repo ; cd ~/ics/projects/whymirror/${repo} && git fetch $user 
+# repo=poignant-br    ; user=carlosbrando    ; echo $user/$repo ; cd ~/ics/projects/whymirror/${repo} && git fetch $user 
+# repo=poignant-guide ; user=mislav          ; echo $user/$repo ; cd ~/ics/projects/whymirror/${repo} && git fetch $user 
+# repo=poignantguide  ; user=luigi           ; echo $user/$repo ; cd ~/ics/projects/whymirror/${repo} && git fetch $user 
+# repo=potion         ; user=fogus           ; echo $user/$repo ; cd ~/ics/projects/whymirror/${repo} && git fetch $user 
+# repo=potion         ; user=lutzky          ; echo $user/$repo ; cd ~/ics/projects/whymirror/${repo} && git fetch $user 
+# repo=redcloth       ; user=jgarber         ; echo $user/$repo ; cd ~/ics/projects/whymirror/${repo} && git fetch $user 
+# repo=sandbox        ; user=jschoolcraft    ; echo $user/$repo ; cd ~/ics/projects/whymirror/${repo} && git fetch $user 
+# repo=sheila         ; user=wmorgan         ; echo $user/$repo ; cd ~/ics/projects/whymirror/${repo} && git fetch $user 
+# repo=shoes          ; user=greatseth       ; echo $user/$repo ; cd ~/ics/projects/whymirror/${repo} && git fetch $user 
+# repo=syck           ; user=indeyets        ; echo $user/$repo ; cd ~/ics/projects/whymirror/${repo} && git fetch $user 
+# repo=unholy         ; user=devyn           ; echo $user/$repo ; cd ~/ics/projects/whymirror/${repo} && git fetch $user 
+# repo=unholy         ; user=jmkogut         ; echo $user/$repo ; cd ~/ics/projects/whymirror/${repo} && git fetch $user 
+# repo=why-archive    ; user=binary42        ; echo $user/$repo ; cd ~/ics/projects/whymirror/${repo} && git fetch $user 
+# repo=yown           ; user=iamjwc          ; echo $user/$repo ; cd ~/ics/projects/whymirror/${repo} && git fetch $user 
+
