@@ -1,0 +1,68 @@
+
+This is about the CAMPING project.
+Hero of the cause JUDOFYR has volunteered to be the head maintainer of this project, with help from many others on the camping mailing list.
+The root of the tree currently shows JUDOFYR as the root but this will be hand-fixed by github to point to CAMPING/CAMPING as the root. Explanation follows.
+
+This is about the GREG project.
+Hero of the cause LOCALHOST continues as the head maintainer of this project.  The root of the tree currently shows LOCALHOST as the root so that part won't change. Explanation follows.
+
+This is about the CAMPING project.
+Hero of the cause JUDOFYR has volunteered to be the head maintainer of this project.  The root of the tree currently shows ATDUSKGREG as the root but this will be hand-fixed by github. Explanation follows.
+
+This is about the HOBIX project.
+Hero of the cause MENTAL has volunteered to be the head maintainer of this project, assisted by CRNIXON.  The root of the tree currently shows ECIN as the root but this will be hand-fixed by github to point to MENTAL/HOBIX. Explanation follows.
+
+This is about the POTION project.
+Hero of the cause FOGUS has volunteered to be the head maintainer of this project, assisted by LUTZKY and WMORGAN.  The root of the tree currently shows LUTZKY as the root but this will be hand-fixed by github to point to FOGUS/POTION as the root. Explanation follows.
+
+
+Hi,
+This isn't really a pull request, it's a bulk email wrapping up the whymirror project (http://whymirror.github.com).
+
+This is about the UNHOLY project.
+Hero of the cause DEVYN has volunteered to be the head maintainer of this project.  The root of the tree currently shows JMKOGUT as the root but this will be hand-fixed by github to point to DEVYN/UNHOLY as the root. Explanation follows.
+
+## Canonical heads of repos on github ##
+
+I've just put in a support request for that repo to become the bless'ed root -- all other repo's will read "Fork of thatname/thisproject".
+  http://support.github.com/discussions/repos/1264-bless-new-heads-for-fork-trees-of-_whys-projects
+
+This is necessary because _why's disappearance left some arbitrary fork to be displayed as the root, but the person shown above volunteered to be the head maintainer. Read more at whymirror.github.com
+
+If any of the following are true:
+
+* Somehow I think you're the head maintainer, but I've misunderstood -- you're not and you don't want to be
+* You think you're the head maintainer but some other random person is named above
+* You're pretty sure somebody else has been serving as the de facto head maintainer, not the person named above
+
+then please
+
+* respond immediately to this github ticket: http://support.github.com/discussions/repos/1264-bless-new-heads-for-fork-trees-of-_whys-projects
+* contact the relevant parties and identify the proper head maintainer
+* let whymirror and github know who the maintainer actually is. Thanks!
+
+(There are absolutely no politics involved, we have no idea how this project functions, this is not a coup -- we're just trying to identify a single point of contact for each repo. Please forgive any misunderstanding.)
+
+## Plea for help ##
+
+Even if you're not the maintainer, this project needs people to help migrate its documentation into the gh-pages branch.  Documentation is the hardest part of any project and it risks being lost as the pages decay from google's cache.  See http://whymirror.github.com/#pleasehelp for how to help move documentation.
+
+## And so adieu ##
+
+Finally, please note that **once this transition has taken place, whymirror will be checked infrequently**. Users @mrflip and @greatseth have been running it, but with the projects decentralized we figure our job is done.  The maintainers for each project have push rights into whymirror's repos (/contact us if this isn't the case/) but the canonical copy is the maintainer's.  If you think whymirror requires some ongoing role, please contact us and we'll let you drive the account.
+
+Thanks again to all the people who have volunteered, 
+
+mrflip / flip@infochimps.org for the whymirror.
+
+
+
+===========================================================================
+
+Not really a pull request -- more of a question.  We're trying to wrap up the whymirror project, read more at http://whymirror.github.com and  http://support.github.com/discussions/repos/1264-bless-new-heads-for-fork-trees-of-_whys-projects
+  
+Evaryont has volunteered to be head maintainer of mousehole, and if I understand correctly hoodwinkd and mousehole are intertwingled projects (?).  
+
+Right now robbyrussell is shown as the github head of the tree and so will be getting all the pull requests, but hasn't publicly announced he'd like to be head of the project. (Apologies if any of the preceding is inaccurate.)
+
+Anyway, if anyone is interested in being maintainer please contact evaryont and robbyrussell and then let whymirror know. 
