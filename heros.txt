@@ -1,88 +1,41 @@
-Here's a list of all the whymirror repos / known projects.  Blessed (head) maintainer in left column, lieutenants in the middle column, random dudes left as the bless'ed root when _why disapeared in the right column.
+These projects were forked from _why.  The hero listed has replied to whymirror, volunteering to become the head maintainer -- where the git tree has fractionated the indicated person's tree should be blessed.  (While any of the projects have multiple custodians, the indicated branches should be the blessed one).
 
-    ** project **          ** hero **      ** assoc **     ** other **
-    8cpj                   drnic
-    TryRuby                Sophrinix       parolkar
-    blimlimb               bterlson
-    bloopsaphone           mental          aberant
-    camping                camping         judofyr
-    chirrup                fogus
-    fakeplus               fogus           sspencer
-    greg                   localhost
-    hacketyhack            steveklabnik                    juliehache
-    hobix                  mental          crnixon
-    hpricot                ecarnevale      olabini         crazycode     
-    markaby                joho            spox            smtlaissezfaire
-    metaid                 dannytatom      evaryont        chneukirchen
-    mixico                 rkh
-    mousehole              evaryont        devyn           joshprice
-    parkplace              mattjamieson    technoweenie    jeremymcanally
-    poignant-br            carlosbrando
-    poignant-guide         mislav
-    poignantguide          luigi
-    potion                 fogus           lutzky
-    processor              fogus
-    rb_parse_args          fogus
-    redcloth               jgarber
-    required-sec..tryruby  Sophrinix
-    sandbox                parolkar        Sophrinix       jschoolcraft
-    sheila                 wmorgan
-    shoes                  shoes           mental          greatseth
-    skistrap               fogus
-    syck                   indeyets
-    tryruby                Sophrinix
-    unholy                 devyn           jmkogut
-    why-archive            steveklabnik    binary42
-    why_sandbox            parolkar        Sophrinix
+Would you please bless the indicated hero as the root for each project's tree?
 
-    hoodwinkd                              robbyrussell
-    superredcloth                          skwp             yup
-    yown                                   iamjwc
-    bumpspark                              fiveruns?        yup
-    myfs                                                    yup
-    railsfs                                                 yup
-    wordy                                                   yup
-
----------------------------------------------------------------------------    
+    ** Project **       ** Root **      ** Needs Blessing **
+    8cpj                drnic
+    blimlimb            bterlson
+    bloopsaphone        mental          !!!!
+    bumpspark           bruce
+    camping             camping         !!!!
+    greg                localhost
+    hacketyhack         steveklabnik    !!!!
+    hobix               hobix           !!!!  (* updated *)
+    hoodwinkd           robbyrussell
+    hpricot             hpricot         !!!!  (* updated *)
+    markaby             markaby         !!!!  (* updated *)
+    metaid              dannytatom
+    mixico              rkh             !!!!
+    mousehole           evaryont        !!!!
+    parkplace           mattjamieson    !!!!  (* updated *)
+    potion              fogus           !!!!
+    redcloth            jgarber
+    sheila              wmorgan
+    shoes               shoes           !!!!  (* updated *)
+    syck                indeyets
+    unholy              devyn           !!!!
+    why_sandbox         parolkar        
+    TryRuby             Sophrinix
+    req ... tryruby     Sophrinix
     
-These projects were forked from _why.  The hero listed is the head maintainer, and so where the project tree has fractionated the indicated person's tree should be blessed.  (While any of the projects have multiple custodians, the indicated branches should be the blessed one).
-
-For each of the following projects, please bless the indicated hero as the root for that project's tree.
-
-    ** Project **          ** Hero **      ** Needs Blessing **
-    8cpj                   drnic
-    blimlimb               bterlson
-    bloopsaphone           mental          !!!!
-    camping                camping         !!!! (maintainer judofyr, root repo camping/camping)
-    greg                   localhost
-    hacketyhack            steveklabnik    !!!!
-    hobix                  mental          !!!!
-    hpricot                ecarnevale      ????
-    markaby                joho            
-    metaid                 dannytatom      
-    mixico                 rkh             !!!!
-    mousehole              evaryont        !!!!
-    parkplace              mattjamieson    !!!!
-    potion                 fogus           !!!!
-    redcloth               jgarber
-    sheila                 wmorgan
-    shoes                  shoes           !!!! (maintainer mental, root repo shoes/shoes)
-    syck                   indeyets
-    unholy                 devyn           !!!!
+I think only the ones with '!!!!' need their roots changed. 
 
 Mislav has what's emerged as the canonical version of _why's Poignant guide to Ruby. No changes necessary here.
 
     poignant-guide         mislav
     poignantguide          luigi
-    why-archive            steveklabnik    
+    why-archive            steveklabnik
     poignant-br            carlosbrando
-
-Parolkar and Sophrinix are reviving TryRuby.  Only change here I think is to make parolkar the head of all sandbox trees.
-
-    TryRuby                Sophrinix       
-    required-sec...tryruby Sophrinix
-    sandbox                parolkar        
-    why_sandbox            parolkar        
 
 These are just re-imports of SVN code lying around. Shouldn't need to change anything.
 
@@ -92,20 +45,85 @@ These are just re-imports of SVN code lying around. Shouldn't need to change any
     rb_parse_args          fogus
     skistrap               fogus
 
-These don't have maintainers yet -- the roots that github shows haven't responded to pull requests (or I didn't see the response). Hoodwinkd should probably go with mousehole, evaryont and robbyrussell has been pinged.
+These don't have maintainers yet -- the roots that github shows haven't responded to pull requests (or I didn't see the response).
 
-    hoodwinkd                              (robbyrussell)
     yown                                   (iamjwc_)
-    bumpspark                              fiveruns?        yup
     superredcloth                          (skwp)           yup
 
-These are still missing; yup has an old svn but hasn't github'd it yet.
+These are still missing; yup has an old svn but hasn't github'd it yet. smtlaissezfaire will answer pull requests when they reappear.
 
     myfs                                                    yup
     railsfs                                                 yup
     wordy                                                   yup
 
----------------------------------------------------------------------------    
+---------------------------------------------------------------------------
+
+Here's a list of all the whymirror repos / known projects.  Blessed (head) maintainer in left column, lieutenants in the middle column, random person left as the bless'ed root when _why disapeared in the right column.
+
+    ** project **       ** hero **              ** assoc **     ** other **
+    8cpj                drnic
+    blimlimb            bterlson
+    bloopsaphone        mental                  aberant
+    bumpspark           bruce                                    yup            (*)
+    camping             camping (judofyr)
+    greg                localhost
+    hacketyhack         steveklabnik                            juliehache
+    hobix               hobix (mental)          crnixon                         (*)
+    hoodwinkd           robbyrussell                                            (*)
+    hpricot             hpricot (ecarnevale)    olabini         nicksieger      (*)
+    markaby             markaby (joho)          spox            smtlaissezfaire (*)
+    metaid              dannytatom              evaryont        chneukirchen
+    mixico              rkh                     smtlaissezfaire
+    mousehole           evaryont                devyn           joshprice
+    parkplace           mattjamieson            technoweenie    jeremymcanally  (*)
+    potion              fogus                   lutzky
+    redcloth            jgarber
+    sheila              wmorgan
+    shoes               shoes (mental)          greatseth                       (*)
+    syck                indeyets
+    unholy              devyn                   jmkogut
+    -- resurrected --
+    chirrup             fogus
+    fakeplus            fogus                   sspencer
+    processor           fogus
+    rb_parse_args       fogus
+    skistrap            fogus
+    TryRuby             Sophrinix               parolkar
+    required...tryruby  Sophrinix
+    sandbox             (see why_sandbox)                       jschoolcraft
+    why_sandbox         parolkar                Sophrinix
+    ---- writings ---
+    poignant-guide      mislav
+    poignantguide       luigi
+    why-archive         steveklabnik            binary42
+    poignant-br         carlosbrando
+    ------ mia ------
+    superredcloth                               skwp             yup
+    yown                                        iamjwc
+    myfs                smtlaissezfaire                          yup            (*)
+    railsfs             smtlaissezfaire                          yup            (*)
+    wordy                                                        yup
+
+smtlaissezfaire will answer pull requests for myfs & railsfs when they reappear. superredcloth and yown lack maintainers. wordy lacks both maintainer and code.
+    
+(*) == changed since this issue first posted.
 
 
+Oh now I get it. 
 
+Just took a quick tour though the list of repos; all of them look right except
+
+    hobix               hobix  
+    hpricot             hpricot
+    camping             camping
+      http://github.com/camping/camping/network/members
+      http://github.com/zimbatm/camping/network/members
+    markaby             markaby
+      http://github.com/giraffesoft/markaby/network/members
+      http://github.com/markaby/markaby/network/members
+
+The last two have multiple-headed trees. 
+
+That should close out this request, thanks again for the fixing.
+
+Whymirror's parent is non-root: bloopsaphone, camping, hacketyhack, hobix, hoodwinkd, hpricot, markaby, parkplace, unholy
