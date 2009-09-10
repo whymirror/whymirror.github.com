@@ -92,6 +92,8 @@ Here's a list of all the whymirror repos / known projects.  Blessed (head) maint
     required...tryruby  Sophrinix
     sandbox             (see why_sandbox)                       jschoolcraft
     why_sandbox         parolkar                Sophrinix
+    myfs                smtlaissezfaire                          yup            (*)
+    railsfs             smtlaissezfaire                          yup            (*)
     ---- writings ---
     poignant-guide      mislav
     poignantguide       luigi
@@ -100,8 +102,6 @@ Here's a list of all the whymirror repos / known projects.  Blessed (head) maint
     ------ mia ------
     superredcloth                               skwp             yup
     yown                                        iamjwc
-    myfs                smtlaissezfaire                          yup            (*)
-    railsfs             smtlaissezfaire                          yup            (*)
     wordy                                                        yup
 
 smtlaissezfaire will answer pull requests for myfs & railsfs when they reappear. superredcloth and yown lack maintainers. wordy lacks both maintainer and code.

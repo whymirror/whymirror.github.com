@@ -113,3 +113,12 @@ If you can, get in touch directly with jgarber, JGailor, faithfulgeek and jbarne
 
 Thank you so much for volunteering. The response from the community has been extraordinary -- it's a remarkable testament to _why and to the ruby community.
 
+
+
+Hey teeler, andhapp, robbyrussell -- 
+
+I believe robbyrussell has volunteered to maintain hoodwinkd, but in clearing my inbox I've found messages from teeler (Tyler Pirtle <tyler@chickn.org>) and andhapp also stepping forward to help. [Sorry for the slow response].  
+
+If I understand the hoodwinkd thing there's parts of this that need infrastructure rebuilt (besides just answering pull requests, as most other projects). You should message each other directly (exclude me please) and sort out the details -- it sounds like tyler can even help with hosting the dns part.
+
+If I should update anything 
