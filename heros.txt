@@ -2,46 +2,48 @@ Here's a list of all the whymirror repos / known projects.  Blessed (head) maint
 
     ** project **          ** hero **      ** assoc **     ** other **
     8cpj                   drnic
-    TryRuby                Sophrinix       parolkar
     blimlimb               bterlson
     bloopsaphone           mental          aberant
+    bumpspark              bruce
     camping                camping         judofyr
     chirrup                fogus
     fakeplus               fogus           sspencer
     greg                   localhost
     hacketyhack            steveklabnik                    juliehache
     hobix                  mental          crnixon
+    hoodwinkd              robbyrussell    teeler	   andhapp
     hpricot                ecarnevale      olabini         crazycode     
     markaby                joho            spox            smtlaissezfaire
     metaid                 dannytatom      evaryont        chneukirchen
     mixico                 rkh
     mousehole              evaryont        devyn           joshprice
+    myfs                   smtlaissezfaire                 yup
     parkplace              mattjamieson    technoweenie    jeremymcanally
-    poignant-br            carlosbrando
-    poignant-guide         mislav
-    poignantguide          luigi
     potion                 fogus           lutzky
     processor              fogus
+    railsfs                smtlaissezfaire                 yup
     rb_parse_args          fogus
     redcloth               jgarber
-    required-sec..tryruby  Sophrinix
-    sandbox                parolkar        Sophrinix       jschoolcraft
     sheila                 wmorgan
     shoes                  shoes           mental          greatseth
     skistrap               fogus
     syck                   indeyets
-    tryruby                Sophrinix
     unholy                 devyn           jmkogut
-    why-archive            steveklabnik    binary42
+    --- infrastructure ---
+    sandbox                parolkar        Sophrinix       jschoolcraft
     why_sandbox            parolkar        Sophrinix
-
-    hoodwinkd                              robbyrussell
-    superredcloth                          skwp             yup
+    tryruby                Sophrinix
+    TryRuby                Sophrinix       parolkar
+    required-sec..tryruby  Sophrinix
+    ------ writings ------
+    poignant-br            carlosbrando
+    poignant-guide         mislav
+    poignantguide          luigi
+    why-archive            steveklabnik    binary42
+    ------ mia ------
+    superredcloth                          skwp            yup
     yown                                   iamjwc
-    bumpspark                              fiveruns?        yup
-    myfs                                                    yup
-    railsfs                                                 yup
-    wordy                                                   yup
+    wordy                                                  yup
 
 ---------------------------------------------------------------------------    
     
@@ -57,7 +59,7 @@ For each of the following projects, please bless the indicated hero as the root 
     greg                   localhost
     hacketyhack            steveklabnik    !!!!
     hobix                  mental          !!!!
-    hpricot                ecarnevale      ????
+    hpricot                ecarnevale      !!!!
     markaby                joho            
     metaid                 dannytatom      
     mixico                 rkh             !!!!
