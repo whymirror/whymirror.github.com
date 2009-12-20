@@ -4,41 +4,18 @@ title: whymirror.github.com
 ---
 
 <div id="home">
-  <h1 id="pleasehelp">Decentralization of _why's Projects</h1>
+  <h1 id="pleasehelp">A living archive of _why's Executable Poetry</h1>
 
-  <p>As you <a href="http://news.ycombinator.com/item?id=773106">may have heard</a>, coding superhero _why the lucky stiff recently deleted all his repos, took down his domains and completely removed his online presence.  Nobody knows the reason, and we hope he's doing well.</p>
+  <p>In August 2008, <a href="http://news.ycombinator.com/item?id=773106">coding superhero _why the lucky stiff</a> deleted all his repos, took down his domains and completely removed his online presence. Nobody outside of _why's personal circle knows why, but we're glad for the wonderful code he shared. </p>
 
-  <p>It's important, however, that his wonderful code live on, and we need your help to do so. We've <a href="http://github.com/whymirror">mirrored what repos we could find</a> and <a href="http://bit.ly/whybug">contacted github tech support</a>, who have promised assistance.  Whymirror will do what it can to ease the transition but <em>CANNOT</em> be a long-term solution.  We need the community (<span style="font-size: 1.2em; color:#611"><strong>this means YOU</strong></span>) to:</p>
+  <p>It's important that this code live on. We've <a href="http://github.com/whymirror">mirrored what repos we could find</a>, and a spartacus-like team of heros have stepped forward to ensure its continuity.</p>
 
-  <ul>
-    <li><p><b>Find maintainers</b> for each <a href="#projects">project</a></p></li>
-
-    <li><p>Once maintainer(s) have been found, <b>github will 'bless' one as the official repository</b> -- the rest of the network will read "fork of blessedrepo/projectname". (If there are multiple maintainers, the project can set up "thisproject" as a user for the "thisproject" repo -- see rails/rails or starling/starling -- with each maintainer having push rights on the shared repo)</p></li>
-    
-    <li>
-      <p><b>The surviving wikis for each project must be moved into github pages</b> within that project. (This is the solution suggested by github's @tekkub) Just:</p>
-      <ul>
-        <li>go to <a href="http://wiki.github.com/why/camping">http://wiki.github.com/why/camping</a> to find the old, now-uneditable code;</li>
-        <li>Pull from whymirror's branch (<code>git remote add -f -m master whymirror git://github.com/whymirror/PROJECTNAME.git</code>) and checkout the pages branch (<code>git checkout -b gh-pages whymirror/gh-pages</code>)</li>
-        <li>Migrate the content over as best as you can.</li>
-        <li>Submit a pull request to whymirror <em>and</em> to this project's maintainers.</li>
-      </ul>
-    </li>
-
-    <li><p><b>Documentation formerly housed on code.whytheluckystiff.net/doc should also be moved to github pages</b>. Our best bet here is <a href="http://web.archive.org/web/*/http://code.whytheluckystiff.net/">probably archive.org</a>.</p></li>
-
-    <li><p><b>Issues from the github trackers</b>. (Maybe github can help with that?)</p></li>
-
-
-    <li><p><b>Recover several missing repos</b> -- see the list of repos, below.</p></li>
-
-    <li><p>Finally, if you'd <b>like to help copilot whymirror</b> please get in touch. </p></li>
-  </ul>
-
-
-  <p>Thank you, thank you for whatever contribution you can provide. And to _why: so long and thanks for all the fish^h^h^h^h chunky bacon.</p>
+  <p>To those who have stepped forward to maintain one of his projects, or to submit a patch or to add or migrate documentations: thank you, thank you for whatever contribution you can provide. And to _why: so long and thanks for all the fish^h^h^h^h chunky bacon.</p>
 
   <p>-- Flip Kromer (@mrflip / http://infochimps.org) and Seth Thomas Rasmussen (@greatseth / http://greatseth.com) for the <a href="http://github.com/whymirror">http://github.com/whymirror</a> project</p>
+
+  <h1 id="moreinfo">More Info</h1>
+  If you're looking for any of _why's many non-programming artworks, please consult <a href="http://viewsourcecode.org/why/">Jeremy Ruten's catalog</a>: &quot;Everything _why has published on the internet should be accessible from here. It works sort of like a museum that sells maps. Many of his abandoned writings are mirrored locally here, and everything else is through external links.&quot;
 
   <h1 id="projects">State of the Projects</h1>
 
@@ -118,6 +95,7 @@ title: whymirror.github.com
       </p></li>
     
     <li>Peter Cooper's <a href="http://www.rubyinside.com/why-the-lucky-stiff-links-2333.html">collection of links to _why's prolific output</a> catalogs several non-coding projects.</li>
+    <li><a href="http://viewsourcecode.org/why/">Jeremy Ruten's catalog</a> is even more comprehensive</a>
   </ul>
   
   <h2>Maintainer / Repo Needed:</h2>
@@ -126,33 +104,6 @@ title: whymirror.github.com
     <li><p>These repos are being restored from SVN: <del><abbr title="thanks to fogus who restored these">chirrup, skistrap, fakeplus, processor, rb_parse_args</abbr></del>, greg, <del><abbr title="thanks @bruce!">bumpspark</abbr></del>, myfs, railsfs, superredcloth, wordy. Once those are back up, smtlaissezfaire will answer requests for myfs and railsfs. The rest need maintainers, but due to their age and simplicity this should be a very easy task.</p></li>
     <li><p><a href="http://rubyforge.org/projects/dns-zone/">http://rubyforge.org/projects/dns-zone/</a>: If you have pulls (of any vintage) for this project, please create a github repo and message whymirror, who will fork your version.</p></li>
   </ul>
-
-  <!-- <p>Huge thanks to Fogus, who has mirrors of everything that _why had on -->
-  <!--   github as of Jan 23, 2009.  Some are surely are out of date, so please check -->
-  <!--   if you have newer copies of chirrup, skistrap, fakeplus, processor or -->
-  <!--   rb_parse_args. Also big thanks to yup, who recovered a whole mess of SVN -->
-  <!--   repos from code.whytheluckystiff.net Hooray for localhost, who recovered the -->
-  <!--   greg project! -->
-  <!--   </p>     -->
-  <!--   <h2>Non-missing repos</h2> -->
-  <!--   <p>Judofyr clears up the provenance of these repos from _why's <a href="http://rubyforge.org/users/why/">rubyforge page</a>:</p> -->
-  <!--       <ul> -->
-  <!--       <li><strong><a href="http://github.com/whymirror/junebug">Junebug</a></strong> wasn't created by why, he just added it to GitHub. We'll leave it up I guess?</li> -->
-  <!--       <li>RubyTorrent is maintained by William Morgan.</li> -->
-  <!--       <li>Equipment was not created nor is maintained by why.</li>         -->
-  <!--       </ul>     -->
-  
-<!--   <h1>News</h1> -->
-<!--   <ul class="posts"> -->
-<!--     {% for post in site.posts %} -->
-<!--       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ --> <!-- post.url }}">{{ post.title }}</a></li> -->
-<!--     {% endfor %} -->
-<!--   </ul> -->
-  
-<!--   <h1>Sticky</h1> -->
-<!--   <ul class="posts"> -->
-    <!-- <li><span>30 Apr 2009</span> &raquo; <a href="http://link">link text</a></li> -->
-  <!-- </ul> -->
  
 </div>
   
